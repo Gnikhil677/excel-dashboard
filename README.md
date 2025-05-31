@@ -7,7 +7,8 @@ This Excel Dashboard provides a comprehensive analysis of salaries and trends in
 
 Based on the **Excel Dashboard** you’ve shared, here’s a set of **clear and concise objectives** tailored specifically to your project:
 
----
+**Download my dashboard from here** - Data_Jobs_Salary_Calculator.xlsx
+
 
 ## 🎯 **Project Objectives: Data Jobs Salary Calculator Dashboard**
 
