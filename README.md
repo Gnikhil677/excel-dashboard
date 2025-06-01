@@ -5,8 +5,6 @@
 
 This Excel Dashboard provides a comprehensive analysis of salaries and trends in various data-related job roles. By exploring multiple job attributes such as job titles, median salaries, top hiring platforms, and job types, the dashboard offers valuable insights for job seekers, recruiters, and data professionals.
 
-Based on the **Excel Dashboard** you’ve shared, here’s a set of **clear and concise objectives** tailored specifically to your project:
-
 **Download my dashboard from here** - [Data_Jobs_Salary_Calculator.xlsx](https://github.com/Gnikhil677/excel-dashboard/blob/main/Data_Jobs_Salary_Calculator.xlsx)
 
 
